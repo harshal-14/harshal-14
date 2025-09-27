@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal</h1>
-<h3 align="center">A passionate Robotics Engineer pursuing MS in Robotics from WPI</h3>
+<h3 align="center">Building the future of autonomous systems, one commit at a time 🤖</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harshal-14&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-14" />
@@ -12,8 +12,8 @@
 </p>
 
 - 🔭 I’m recently completed my Co-op at **Magna International New Mobility Division** & am back at WPI.
-- 🌱 I’m currently learning **SLAM, Applied LLMs, and C++ implementations for Navigation Algorithms**.
-- 👯 I’m looking to collaborate on **Perception for Autonomous Systems, SLAM, Robotics**.
+- 🌱 I’m currently learning **Zephyr RTOS, Applied LLMs, and C++ implementations for Navigation Algorithms**.
+- 👯 I’m looking to collaborate on **Embedded AI,SLAM, Robotics**.
 - 👨‍💻 All of my projects are available at [my portfolio](https://harshal-14.github.io/).
 - 📫 How to reach me: **harshalbhat14@gmail.com**.
 
