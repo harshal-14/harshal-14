@@ -11,9 +11,8 @@
   <img src="https://img.shields.io/badge/Collaborate-Perception%20Systems-green?style=flat-square&logo=github" alt="Looking to Collaborate on Perception Systems"/>
 </p>
 
-- 🔭 I’m recently completed my Co-op at **Magna International New Mobility Division** & am back at WPI.
-- 🌱 I’m currently learning **Zephyr RTOS, Applied LLMs, and C++ implementations for Navigation Algorithms**.
-- 👯 I’m looking to collaborate on **Embedded AI,SLAM, Robotics**.
+- 🔭 I'm a Software Engineer at **Magna International New Mobility Division** & am building Multi-robot simulators and Fleet Management middleware.
+- 👯 I’m looking to collaborate on **sim2real, Embedded AI, Robotics**.
 - 👨‍💻 All of my projects are available at [my portfolio](https://harshal-14.github.io/).
 - 📫 How to reach me: **harshalbhat14@gmail.com**.
 
@@ -54,11 +53,6 @@
 - [RGBD SLAM in Gazebo Environment](https://youtu.be/CAFguSQwbX8)
 - [Adaptive Cruise Control using MPC](https://youtu.be/9P2mqqktDwU)
 <!-- YOUTUBE:END -->
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Exploring Advanced Navigation Algorithms](#)
-<!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal-14&show_icons=true&locale=en&layout=compact" alt="harshal-14" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshal-14&show_icons=true&locale=en" alt="harshal-14" /></p>
